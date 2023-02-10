@@ -4,7 +4,7 @@ Hello there! 😊 I’m Judy, a software engineer and veteran investment profess
 
 💡 Senior Product Operations Manager at an investment management FinTech software-as-a-service (SaaS). I partner with PE and VC investment firms to assess, strategize, test, and migrate data into proprietary software. I draw on my strong account and project management skills coupled with direct experience working in credit / debt lending and real estate private equity to aid my clients in implementing and maximizing the value of their data used in conjunction with software.
 
-🔑 Excited to continue perfecting my craft in software and fintech, be it working with clients, managing projects, or writing code. In my free time, you can find me doing HIIT workouts (Orangetheory 🍊), reading fiction 📚, or eating out at the most delicious spots🍴. If you’re interested in learning more about my journey, let’s connect!
+🔑 Excited to continue perfecting my craft in software and fintech, be it working with clients, managing projects, or writing code. In my free time, you can find me doing HIIT workouts (Orangetheory 🍊), reading fiction 📚, or eating out at the most delicious spots🍴. If you’re interested in learning more about my journey, give me a follow!
 
 <!--
 **judywuxingyi/judywuxingyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
